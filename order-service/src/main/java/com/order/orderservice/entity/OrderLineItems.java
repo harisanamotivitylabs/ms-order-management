@@ -19,6 +19,4 @@ public class OrderLineItems {
     private String skuCode;
     private double price;
     private long quantity;
-
-
 }
